@@ -48,8 +48,8 @@ function sayHiToGrandma(string) {
    return 'I love you, too.';
  }
 }
-sayHiToGrandma('I love you, Grandma.')
-var uppercase = "HELLO!"
+sayHiToGrandma('I love you, Grandma.');
+var uppercase = "HELLO!";
 
 
 
